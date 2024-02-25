@@ -7,4 +7,4 @@ Budged app in vanilla JS using Bootstrap
 
 ### Live Demo
 
-[budget-app-demo](https://anarseferrov.github.io/budged-app/)
+[budget-app-demo](https://anarsafar.github.io/budged-app/)
